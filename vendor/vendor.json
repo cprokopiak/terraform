@@ -2992,53 +2992,60 @@
 			"revisionTime": "2016-03-30T18:21:26Z"
 		},
 		{
-			"checksumSHA1": "8d+wc4Ac7P97qfrQlthgb4tkYd8=",
+			"checksumSHA1": "VK+9fon/pJt+ZebKV+iCx3ILZFI=",
 			"comment": "v0.6.2",
 			"path": "github.com/vmware/govmomi",
-			"revision": "733acc9e4cb9ce9e867734f298fdfc89ab05f771",
-			"revisionTime": "2017-01-08T05:01:35Z"
+			"revision": "2030458d4e8ea0bbf0363ea109d0f3004686e802",
+			"revisionTime": "2017-05-04T22:31:55Z"
 		},
 		{
-			"checksumSHA1": "xyxo9nWPro79ae/TGNZOlWKSPUk=",
+			"checksumSHA1": "L/z6VeAmwdnp4Prod4EAlTcPYRY=",
 			"comment": "v0.6.2",
 			"path": "github.com/vmware/govmomi/find",
-			"revision": "9051bd6b44125d9472e0c148b5965692ab283d4a"
+			"revision": "2030458d4e8ea0bbf0363ea109d0f3004686e802",
+			"revisionTime": "2017-05-04T22:31:55Z"
 		},
 		{
-			"checksumSHA1": "lHxDz/33BD9IKrlJ3lRUicXWVfg=",
+			"checksumSHA1": "J3JrwZagGYMX6oNMkdsUFf8hHo8=",
 			"comment": "v0.6.2",
 			"path": "github.com/vmware/govmomi/list",
-			"revision": "9051bd6b44125d9472e0c148b5965692ab283d4a"
+			"revision": "2030458d4e8ea0bbf0363ea109d0f3004686e802",
+			"revisionTime": "2017-05-04T22:31:55Z"
 		},
 		{
-			"checksumSHA1": "Tu98nr2K8FL8Bz/88ufPBWYR1xQ=",
+			"checksumSHA1": "+Z23VYWTc8XBsdfZFN3C893f5/Q=",
 			"comment": "v0.6.2",
 			"path": "github.com/vmware/govmomi/object",
-			"revision": "9051bd6b44125d9472e0c148b5965692ab283d4a"
+			"revision": "2030458d4e8ea0bbf0363ea109d0f3004686e802",
+			"revisionTime": "2017-05-04T22:31:55Z"
 		},
 		{
-			"checksumSHA1": "+QicEDJib9U9fSb1yc1qjW4m8/E=",
+			"checksumSHA1": "INNHeHhLFq+1BzuX/E3el2wZpVs=",
 			"comment": "v0.6.2",
 			"path": "github.com/vmware/govmomi/property",
-			"revision": "9051bd6b44125d9472e0c148b5965692ab283d4a"
+			"revision": "2030458d4e8ea0bbf0363ea109d0f3004686e802",
+			"revisionTime": "2017-05-04T22:31:55Z"
 		},
 		{
-			"checksumSHA1": "LTzDdLTnB4UyquP6wGQs8Q7QBH0=",
+			"checksumSHA1": "eqoHqcnyVN3klOJ89N7xmJhRgu0=",
 			"comment": "v0.6.2",
 			"path": "github.com/vmware/govmomi/session",
-			"revision": "9051bd6b44125d9472e0c148b5965692ab283d4a"
+			"revision": "2030458d4e8ea0bbf0363ea109d0f3004686e802",
+			"revisionTime": "2017-05-04T22:31:55Z"
 		},
 		{
-			"checksumSHA1": "JtZUMXRXiFOaV8akUh+kbnLaf+E=",
+			"checksumSHA1": "FQR3yNgiShaqUiJREkeqQCKYJ84=",
 			"comment": "v0.6.2",
 			"path": "github.com/vmware/govmomi/task",
-			"revision": "9051bd6b44125d9472e0c148b5965692ab283d4a"
+			"revision": "2030458d4e8ea0bbf0363ea109d0f3004686e802",
+			"revisionTime": "2017-05-04T22:31:55Z"
 		},
 		{
-			"checksumSHA1": "orm8PDSa1meFBKxuM6ovnKiu6IY=",
+			"checksumSHA1": "zLg5y/6xx/yr8swoqdyxISyQfoU=",
 			"comment": "v0.6.2",
 			"path": "github.com/vmware/govmomi/vim25",
-			"revision": "9051bd6b44125d9472e0c148b5965692ab283d4a"
+			"revision": "2030458d4e8ea0bbf0363ea109d0f3004686e802",
+			"revisionTime": "2017-05-04T22:31:55Z"
 		},
 		{
 			"checksumSHA1": "xLvppq0NUD6Hv2GIx1gh75xUzyM=",
@@ -4555,5 +4562,5 @@
 			"revisionTime": "2017-02-23T17:37:09Z"
 		}
 	],
-	"rootPath": "github.com/hashicorp/terraform"
+	"rootPath": "github.com/cprokopiak/terraform"
 }
